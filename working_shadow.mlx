@@ -51,7 +51,7 @@ for k = 1 : numberOfObject
     [x,y] = find(rotatedObject);
     pixLength = abs(max(y)-min(y)+1);
     length = pixLength*resolution;
-    height = (tand(90-sunElevation)*length*tand(90-nadir))/(1-tand(90-sunElevation));
+    height = (tand(90-sunElevation)*length);
     
     %centroid for text
     try
