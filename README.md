@@ -5,7 +5,7 @@ All instructions are provided in the code throught prompts. This MATLAB project 
 TO DO
 
 Automate downloading
-
+Change height formula
 Increase the efficiency for the shadow detection code
 ![alt text](https://i.imgur.com/Mb3HfWY.jpg)
 [![Watch the video](https://img.youtube.com/vi/Nhw3-knQYLA/maxresdefault.jpg)](https://youtu.be/Nhw3-knQYLA)
